@@ -1,0 +1,18 @@
+
+[
+  {
+    "id": 1,
+    "title": "Remote Work Policy",
+    "content": "Employees can work from home with manager approval."
+  },
+  {
+    "id": 2,
+    "title": "Leave Policy",
+    "content": "Employees receive 15 days of annual paid leave."
+  },
+  {
+    "id": 3,
+    "title": "IT Support",
+    "content": "Contact IT for password resets."
+  }
+]
